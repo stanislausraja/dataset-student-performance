@@ -1,0 +1,9 @@
+usia,jumlah,gender,jumlah,waktu belajar,jumlah,waktu perjalanan,jumlah,keinginan kuliah,jumlah,orang tua penanggung,jumlah_df,akses internet,jumlah,keaktifan,jumlah,status,jumlah,pekerjaan ayah,jumlah,pendidikan ayah,jumlah,pekerjaan,jumlah,jenjang,jumlah
+15 tahun,82,laki-laki,187.0,<2 jam,105.0,<15 menit,257.0,ingin,375.0,ayah,90.0,tersedia,329.0,ikut ekstrakurikuler,201.0,berpacaran,132.0,tenaga kesehatan,18.0,SD,82.0,tenaga kesehatan,34.0,SD,59.0
+16 tahun,104,perempuan,208.0,2-5 jam,198.0,15-30 menit,107.0,tidak,20.0,ibu,273.0,tidak tersedia,66.0,tidak ikut ekstrakurikuler,194.0,tidak berpacaran,263.0,guru,29.0,SMP,115.0,ibu rumah tangga,59.0,SMP,103.0
+17 tahun,98,,,5-10 jam,65.0,30-60 menit,23.0,,,,,,,,,,,pegawai pemerintahan,111.0,SMA,100.0,guru,58.0,SMA,99.0
+18 tahun,82,,,>10 jam,27.0,>60 menit,8.0,,,,,,,,,,,rumah tangga,20.0,Kuliah,96.0,pegawai pemerintahan,103.0,Perguruan Tinggi,131.0
+19 tahun,24,,,,,,,,,,,,,,,,,lainnya,217.0,,,lainnya,141.0,,
+20 tahun,3,,,,,,,,,,,,,,,,,,,,,,,,
+21 tahun,1,,,,,,,,,,,,,,,,,,,,,,,,
+22 tahun,1,,,,,,,,,,,,,,,,,,,,,,,,
